@@ -22,7 +22,7 @@ Cada pasta contém:
 
 ---
 
-### [Dashboard de Produção](./Producao/)
+### [Dashboard de Produção](./Produção/)
 **Objetivo**: Monitorar produtividade e eficiência da operação.
 
 **Gráficos utilizados**:  
